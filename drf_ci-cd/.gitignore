@@ -8,3 +8,4 @@ local_settings.py
 env
 # Visual Studio Code
 .vscode/
+venv
